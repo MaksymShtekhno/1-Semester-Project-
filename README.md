@@ -1,0 +1,2 @@
+# OOSE
+My project from the first semester, which was rated 20 out of 20. The game simulate a battlefield in ancient Rome. We can create gladiators, and obey them to fight with each other. We have the dynamic table, that shows the result of the fights and defines the winner. This project shows and proves my knowledge in topics such as object oriented programming, creating GUI using Swing, Serialization.  
